@@ -8,7 +8,6 @@ dependencies:
 - numexpr
 - numpy
 - openssl
-- phconvert
 - pip
 - pyparsing
 - pyqt
@@ -27,5 +26,5 @@ dependencies:
 - xz
 - zlib
 - pip:
-  - tables==3.2.2
+  - phconvert
 
