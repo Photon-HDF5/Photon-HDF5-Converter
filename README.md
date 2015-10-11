@@ -25,7 +25,7 @@ instructions in the [phconvert homepage](http://photon-hdf5.github.io/phconvert/
 
 # Feedback
 
-For questions or comments on using this converter please:
+For questions or comments please:
 
 - [Open an GitHub issue](https://github.com/Photon-HDF5/phconvert/issues) or
 - Ask a question on the [Photon-HDF5 Google Group](https://groups.google.com/forum/#!forum/photon-hdf5).
