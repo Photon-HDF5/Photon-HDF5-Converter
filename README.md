@@ -15,7 +15,7 @@ To launch the demo click on the following button:
 
 For instructions on *how to use the notebook interface* see [this page](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#The-Notebook-dashboard). For an overview of what *Jypyter Notebook* is refer to this
 [nature paper](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261),
-and to the [Jupyter Project homapage](https://jupyter.org/).
+and to the [Jupyter Project Homepage](https://jupyter.org/).
 
 # Install the converter locally
 
@@ -26,6 +26,7 @@ instructions in the [phconvert homepage](http://photon-hdf5.github.io/phconvert/
 # How this demo was built?
 
 This online demo uses [MyBinder.org](http://mybinder.org/) to run the
-notebooks included in phconvert. Many thanks to [Jeremy Freeman](http://www.jeremyfreeman.net/) 
+Jupyter notebooks included with [phconvert](http://photon-hdf5.github.io/phconvert/). 
+Many thanks to [Jeremy Freeman](http://www.jeremyfreeman.net/) 
 and collaborators for providing this amazing service.
 
