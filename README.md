@@ -23,6 +23,13 @@ Under the hood this demo service runs the phconvert software.
 You can install phconvert on you own desktop following the
 instructions in the [phconvert homepage](http://photon-hdf5.github.io/phconvert/).
 
+# Feedback
+
+For questions or comments on using this converter please:
+
+- [Open an GitHub issue](https://github.com/Photon-HDF5/phconvert/issues) or
+- Ask a question on the [Photon-HDF5 Google Group](https://groups.google.com/forum/#!forum/photon-hdf5).
+
 # How this demo was built?
 
 This online demo uses [MyBinder.org](http://mybinder.org/) to run the
