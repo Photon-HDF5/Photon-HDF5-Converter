@@ -4,8 +4,9 @@ This is a demo service to convert data files to [Photon-HDF5](www.photon-hdf5.or
 without the need to install any software. Currently, input data files 
 cannot be larger than 35 MB.
 
-The supported file formats are PicoQuant **HT3**, Becker & Hickl **SPC/SET** and 
-the custom format **SM** (a format formerly used in Weiss Lab).
+The supported file formats are PicoQuant **HT3** (ns-ALEX or PIE), 
+Becker & Hickl **SPC/SET** (ns-ALEX or PIE) and 
+the μs-ALEX format **SM** (a format formerly used in Weiss Lab).
 For each supported file format we provide a Jupyter notebook that
 contains both the instructions and the code to convert the file.
 
