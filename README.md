@@ -1,8 +1,7 @@
 # Photon-HDF5 Online Converter
 
 This is a demo service to convert data files to [Photon-HDF5](http://www.photon-hdf5.org) 
-without the need to install any software. Currently, input data files 
-cannot be larger than 35 MB.
+without the need to install any software.
 
 The supported file formats are PicoQuant's **HT3** (ns-ALEX or PIE), 
 Becker & Hickl's **SPC/SET** (ns-ALEX or PIE) and 
