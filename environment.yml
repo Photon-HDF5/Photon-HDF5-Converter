@@ -5,6 +5,7 @@ dependencies:
 - hdf5
 - libpng
 - matplotlib
+- numba
 - numexpr
 - numpy
 - openssl
@@ -27,4 +28,3 @@ dependencies:
 - zlib
 - pip:
   - phconvert
-
