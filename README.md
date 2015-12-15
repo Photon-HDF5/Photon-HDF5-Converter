@@ -13,9 +13,10 @@ To launch the demo, click on the following button:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Photon-HDF5/Photon-HDF5-Converter)
 
-For instructions on *how to use the notebook interface*, see [this page](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#The-Notebook-dashboard). For an overview of what *Jypyter Notebook* is refer to this
-[nature paper](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261),
-and to the [Jupyter Project Homepage](https://jupyter.org/).
+For instructions on how to use the notebook interface, see [this page](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#The-Notebook-dashboard). For an overview of what *Jypyter Notebook* is, please refer to 
+the [Jupyter Project Homepage](https://jupyter.org/)
+an to this [nature paper](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) 
+(which includes an interactive demo).
 
 # Install the converter locally
 
