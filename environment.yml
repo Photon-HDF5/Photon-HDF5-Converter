@@ -13,7 +13,7 @@ dependencies:
 - pyparsing
 - pyqt
 - pytables
-- python=3.4
+- python=3.6
 - python-dateutil
 - pytz
 - qt
